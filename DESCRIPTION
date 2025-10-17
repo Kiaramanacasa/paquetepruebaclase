@@ -1,9 +1,10 @@
 Package: paquetepruebaclase
-Title: What the Package Does (One Line, Title Case)
+Title: paquete de prueba para aprender a desarrollar paquetes
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+    person("Kiara", "Manacasa", , "first.last@example.com", role = c("aut", "cre"))
+Description: no esta pensado para ser usado/instalado, 
+el objetivo es aprender a desarrollar paquetes.
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
 Encoding: UTF-8
