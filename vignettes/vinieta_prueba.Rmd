@@ -17,9 +17,20 @@ knitr::opts_chunk$set(
 ```{r setup}
 library(paquetepruebaclase)
 ```
- Esta es una viñieta de prueba, podemos demostra el uso de funciones.
+ Introducción : Esta es una viñieta de prueba, podemos demostra el uso de funciones. 
+ 
+Función suma():
+Suma dos valores o vectores numéricos
 ```{r}
 suma(2,2)
 ```
- 
- 
+ Función cm_a_pulgadas():
+Convierte centímetros a pulgadas.
+```{r}
+cm_a_pulgadas(10)
+cm_a_pulgadas(c(5, 15, 25))
+
+```
+Conclusión:
+
+En esta viñeta vimos cómo usar las funciones suma() y cm_a_pulgadas() para realizar operaciones básicas y conversiones de unidades. 
