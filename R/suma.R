@@ -1,11 +1,15 @@
-suma <- function(x = 0, y = 0) {
-  if (!is.numeric(x) || !is.numeric(y)) {
-    stop("Ambos argumentos deben ser numéricos.")
-  }
-
-  if (x < 0 || y < 0) {
-    return("No puedo sumar negativos")
-  }
-
+#' Suma dos numeros
+#'
+#'Suma dos numeros que deben ser positivos
+#' @param x un valor o vector numerico
+#' @param y un valor o vector numerico
+#'
+#' @returns un valor numerico con la suma de x e y
+#' @examples
+#' suma(10,2)
+#'suma(3,1)
+#'
+#' @export
+suma <- function(x,y) {
   x + y
 }
