@@ -11,5 +11,10 @@
 #'
 #' @export
 suma <- function(x,y) {
-  x + y
+  if (!is.numeric(x)) {
+    cli::cli_abort(c(
+      "i"="El argumento X no es numerico"
+    ))
+  }
+   x + y
 }
