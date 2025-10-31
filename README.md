@@ -7,6 +7,9 @@
 
 [![Lifecycle:
 experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
+[![R-CMD-check](https://github.com/Kiaramanacasa/paquetepruebaclase/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/Kiaramanacasa/paquetepruebaclase/actions/workflows/R-CMD-check.yaml)
+[![Codecov test
+coverage](https://codecov.io/gh/Kiaramanacasa/paquetepruebaclase/graph/badge.svg)](https://app.codecov.io/gh/Kiaramanacasa/paquetepruebaclase)
 <!-- badges: end -->
 
 ***paquetepruebaclase*** es un paquete de ejemplo creado con fines
