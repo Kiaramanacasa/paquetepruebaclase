@@ -7,3 +7,4 @@ datarow/
 ^pkgdown$
 ^\.github$
 ^LICENSE\.md$
+^CODE_OF_CONDUCT\.md$
