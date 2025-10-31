@@ -13,7 +13,7 @@
 #' @export
 cm_a_pulgadas <- function(cm) {
   if (!is.numeric(cm)) {
-    cli::cli_abort("El argumento cm no es numérico")
+    cli::cli_abort("El argumento cm no es num\u00E9rico")
   }
   cm / 2.54
 }

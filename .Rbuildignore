@@ -6,3 +6,4 @@ datarow/
 ^docs$
 ^pkgdown$
 ^\.github$
+^LICENSE\.md$
